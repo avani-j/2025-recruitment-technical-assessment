@@ -130,12 +130,12 @@ input::placeholder {
     height: 14px;
 }
 
-#filter-list-icon {
+#filter-list-img {
     width: 18px;
     height: 18px;
 }
 
-.um {
+.filter-list-icon {
     display: flex;
     align-items: center;
     gap: 10px;
